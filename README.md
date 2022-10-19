@@ -1,2 +1,4 @@
 # A-Custom-System-Call-to-Linux-Kernel
-Linux Kernel Version : 3.9.1
+Ubuntu 16.04.7
+Linux Kernel Version : 3.9
+gcc Version : 4.8
